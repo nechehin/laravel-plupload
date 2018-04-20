@@ -1,4 +1,4 @@
-laravel-plupload
+laravel-plupload - fork of jildertmiedema/laravel-plupload
 ================
 
 Laravel plupload support.
@@ -10,7 +10,7 @@ Handeling chunked uploads.
 Install using composer 
 
 ```sh
-composer require jildertmiedema/laravel-plupload
+composer require nechehin/laravel-plupload
 ```
 
 Add the provider to `config/app.php`
