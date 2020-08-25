@@ -1,6 +1,6 @@
 {
     "name": "nechehin/laravel-plupload",
-    "description": "Laravel 5/Plupload - Handle large file uploads - fork of  jildertmiedema/laravel-plupload",
+    "description": "Laravel 6/Plupload - Handle large file uploads - fork of  jildertmiedema/laravel-plupload",
     "authors": [
         {
             "name": "nechehin",
@@ -14,12 +14,8 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=5.5.0",
-        "illuminate/support": "^5.1"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^4.0",
-        "mockery/mockery": "^0.9.4"
+        "php": ">=7.2.5",
+        "illuminate/support": "^6.0"
     },
     "autoload": {
         "psr-0": {
